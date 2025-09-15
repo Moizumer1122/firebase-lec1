@@ -16,3 +16,32 @@ VIDEO AT 33:05
 13	Destructuring	Extract data from props or objects
 14	Spread Operator	Update objects without changing original
 15	Ternary Operator (THERE ARE 15 POINTS YOU DISCUSS WITH ME )
+
+
+
+
+
+
+
+
+
+
+
+
+✅ REAL USAGE OF JS CONCEPTS IN CRUD PROJECTS:
+🔢 #	Concept	How it's used in CRUD apps
+1	Variables	Store user input, IDs, messages, etc.
+2	Functions	Define actions like handleSubmit(), editUser()
+3	Arrow Functions	Short syntax for handlers, e.g. onClick={() => ...}
+4	Arrays	Store lists like users, products, appointments
+5	Objects	Store single items like one product or one user
+6	Loops	Show data manually (less common than .map)
+7	map()	Show lists in UI (appointments.map(...))
+8	if / else	Conditional display (e.g., show "No data" if empty)
+9	Events	Handle clicks, form submissions, edits, deletes
+10	useState	Store form values, user data, loading states
+11	useEffect	Fetch data when page loads (GET /api/users)
+12	JSX	Display HTML + JS together, like showing user names
+13	Destructuring	Extract data from props or objects
+14	Spread Operator	Update objects without changing original
+15	Ternary Operator (THERE ARE 15 POINTS YOU DISCUSS WITH ME MEANS REVISE IN 3 DAYS AND I HAVE A TIME OF 3-3.5 HRS FROM MON TO WED )
