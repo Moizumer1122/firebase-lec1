@@ -55,3 +55,21 @@ Day 3 – Wednesday
 ⓮ Spread Operator
 ⓯ Ternary Operator
 
+
+
+
+
+function LargestOne(num1, num2, num3) {
+//     if (num1 === num2 && num2 === num3) {
+//         return 'All numbers are equal';
+//     } else if (num1 >= num2 && num1 >= num3) {
+//         return num1 + ' is the largest number';
+//     } else if (num2 >= num1 && num2 >= num3) {
+//         return num2 + ' is the largest number';
+//     } else {
+//         return num3 + ' is the largest number';
+//     }
+// }
+(ask to usman bhai )
+
+
